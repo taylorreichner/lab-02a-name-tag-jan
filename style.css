@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+   height: 100%;
+   width: 100%;
+   padding: 0;
+   margin: 0;
+   
+
+}
+    
+
+header {
+    text-align: center;
+    color: white;
+    background-color: red;
+    justify-content: center;
+    width: 400px;
+    border-radius: 15px 15px 0px 0px;
+    font-size: 20px;
+    
+    
+    
+}
+main {
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    
+    
+    
+}
+footer {
+    background-color: red;
+    border-radius: 0px 0px 15px 15px;
+}
+body {
+    display: grid;
+    grid-template-rows: 2fr 2fr .5fr;
+    justify-content: center;
+    height: 280px;
+    
+    }
+ 
+
+  
