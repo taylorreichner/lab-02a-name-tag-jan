@@ -44,5 +44,11 @@ body {
     
     }
  
-
-  
+.blue-button {
+    background-color: blue;
+    color: white;
+}
+.red-button {
+    background-color: red;
+    color: white;
+}
